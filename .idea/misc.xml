@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/drawable/btnframe.xml" value="0.1085" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/drawable/ic_rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/drawable/ic_rectangle_2.xml" value="0.1" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/drawable/ic_rectangle_2__2_.xml" value="0.1085" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/drawable/ic_rectangle_allblack_.xml" value="0.1085" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/drawable/ic_rectangle_login.xml" value="0.2595" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/font/comfortaa.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/layout/logged_out_page.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/layout/login.xml" value="0.253125" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/layout/register_1.xml" value="0.2056434373663959" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/layout/register_2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/99557/AndroidStudioProjects/RegisterApp/app/src/main/res/layout/register_setp_1.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

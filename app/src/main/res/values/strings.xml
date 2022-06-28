@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RegisterApp</string>
+    <string name="log_in">log_in</string>
+    <string name="log_iin">LOG IN</string>
+    <string name="register">REGISTER</string>
+    <string name="register1">Register</string>
+    <string name="jane_example_com">jane@example.com</string>
+    <string name="pass">**********</string>
+    <string name="next">NEXT</string>
+    <string name="loginn">log in</string>
+    <string name="sign_up">sign up</string>
+    <string name="by_signing_up_you_agree_to_photo_s_terms_of_service_and_privacy_policy">By signing up, you agree to Photo’s Terms of Service and Privacy Policy.</string>
+    <string name="the_jane">the_Jane</string>
+    <string name="logiut_check">Logiut Check</string>
+</resources>
